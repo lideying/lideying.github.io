@@ -10,4 +10,4 @@ Brief
 
 My name is Deyuan Li and I am from Shaoguan, China.
 
-Currently, I am working on the topic about Information security using Mechine Learning. It's my pleasure to have a chance to learn from each other. Thank you!
+Currently, I am working on the topic about Information Security using Mechine Learning. It's my pleasure to have a chance to learn from each other. Thank you!
